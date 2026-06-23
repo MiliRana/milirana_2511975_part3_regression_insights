@@ -159,18 +159,6 @@ Based on the regression analysis:
 
 ---
 
-## Files Included
-
-### Analysis
-
-* model_comparison.md
-* residual_analysis.md
-
-### Outputs
-
-* regression_summary.xlsx
-* model_equations.md
-* final_recommendation.md
 
 ### Screenshots
 
@@ -179,13 +167,7 @@ Based on the regression analysis:
 * model_comparison_preview.png
 * residuals_preview.png
 
-### Dataset
 
-* cleaned_retail_dataset.csv
-
-### Regression Workbook
-
-* retail_regression_analysis.xlsx
 
 ---
 
