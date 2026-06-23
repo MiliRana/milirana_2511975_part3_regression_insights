@@ -160,7 +160,7 @@ Based on the regression analysis:
 ---
 
 
-### Screenshots
+## Screenshots
 
 * simple_regression_output.png
 * multiple_regression_output.png
